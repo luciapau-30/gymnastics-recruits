@@ -1,5 +1,7 @@
 # 🤸 NCAA Gymnastics Recruit Database (2024–2027)
 
+Join the fun here!! : https://gymnastics-recruits-ohrtqszxjbcf5voognscce.streamlit.app/
+
 A Python + Streamlit project that tracks and analyzes NCAA gymnastics recruits, integrating **data pipelines, ranking algorithms, and an interactive dashboard**.
 
 If we have it for Football, why not for gymnastics?! 
