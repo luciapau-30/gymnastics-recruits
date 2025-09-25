@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # Load your cleaned dataset
-df = pd.read_csv("cleaned_recruits.csv")
+df = pd.read_csv("cleaned_data.csv")
 
 st.set_page_config(page_title="NCAA Gymnastics Recruits", layout="wide")
 st.title("🤸 NCAA Gymnastics Recruit Database (2024–2027)")
