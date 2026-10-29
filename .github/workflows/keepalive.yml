@@ -2,7 +2,7 @@ name: Keep Streamlit App Awake
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # every 4 hours (you can change this)
+    - cron: "0 */4 * * *"   # every 4 hours
   workflow_dispatch:       # manual trigger
 
 jobs:

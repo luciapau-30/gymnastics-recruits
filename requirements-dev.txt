@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest
+# for notebooks/explore.ipynb
+jupyter
+matplotlib
+seaborn

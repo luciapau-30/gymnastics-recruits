@@ -55,3 +55,6 @@ env/
 # Environment variables
 .env
 .env.local
+
+# Tests
+.pytest_cache/
