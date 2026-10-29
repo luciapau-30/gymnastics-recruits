@@ -2,8 +2,7 @@
 
 **Live app:** https://gymnastics-recruits-ohrtqszxjbcf5voognscce.streamlit.app/
 
-Football has recruiting databases. Women's gymnastics doesn't, so I built one: a searchable dashboard of **3,536 gymnasts** in the high school classes of 2025–2027, with a rating that ranks athletes across levels and meets.
-
+Football has recruiting databases, where fans and coaches can view stats about recruitable athletes. Gymnastics didn't have one, so I made it :)
 ![Dashboard: filters, summary stats and the recruit leaderboard](docs/dashboard.png)
 
 ## What it does
